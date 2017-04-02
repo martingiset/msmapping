@@ -1,0 +1,6 @@
+Log for diverging from tutorial:
+
+- Changed database in settings from sqlite3 to postgresql
+	(https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04)
+	(http://stackoverflow.com/questions/8167602/django-connection-to-postgresql-peer-authentication-failed)
+	(https://www.a2hosting.com/kb/developer-corner/postgresql/managing-postgresql-databases-and-users-from-the-command-line)
